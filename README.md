@@ -1,2 +1,2 @@
-# card-tracker
-A Django app for tracking credit card balances and payments
+# django_template
+A Django template configured with a custom user model and gb timezones
